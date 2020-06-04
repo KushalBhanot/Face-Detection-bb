@@ -13,3 +13,5 @@ The Locations of the Facial Parts are as follows:
     The right eyebrow is accessed through points (17, 21).
     The right eye is accessed using points (36, 41).
     And the jaw is accessed via points (0, 16).
+
+To close the ongoing frame readings, press 'Esc'.
